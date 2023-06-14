@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**ByeongeonPark/ByeongeonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=242F9B&height=250&section=header&text=Park%20Byeongeon&fontColor=DBDFFD&fontSize=75" />
 
-Here are some ideas to get you started:
+![Byeongeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongeonPark&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/dev_pbe/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:parkbe3453@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+
+## 🔨 Tech Stack 🔨
+<div style="display:flex; flex-direction:row;">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a> 
+  <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+
+</div><br>
+</div>
+
+<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254) -->
+
+ 
