@@ -1,7 +1,4 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=242F9B&height=250&section=header&text=Park%20Byeongeon&fontColor=DBDFFD&fontSize=75" />
-
-![Byeongeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongeonPark&show_icons=true&theme=transpar
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
